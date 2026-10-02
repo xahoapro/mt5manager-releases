@@ -1,3 +1,5 @@
+**🇻🇳 Tiếng Việt** · [🇬🇧 English](README.en.md)
+
 # MT5 Manager — quản lý nhiều tài khoản MT5 trên một màn hình · MIỄN PHÍ
 
 **MT5 Manager** là công cụ trên Windows giúp bạn theo dõi và điều khiển **nhiều tài khoản MetaTrader 5 cùng lúc**: một bảng cho mọi số dư, equity, lãi lỗ và vị thế; đặt lệnh hàng loạt; copy lệnh giữa các tài khoản; quản lý vốn tự động; và điều khiển từ xa bằng điện thoại.
@@ -77,10 +79,4 @@ Các file `MT5Manager-<phiên bản>-update.zip` trong mục Releases là gói c
 
 ---
 
-## 🇬🇧 English
-
-**MT5 Manager** is a free Windows tool to monitor and control **many MetaTrader 5 accounts at once**: one dashboard for every balance, equity, P/L and open position; batch orders; copy trading between accounts (even across brokers); automatic money management; TradingView → MT5 signals; and remote control from your phone at `service.tradingauto.org/<your-name>` with password, 2-step verification and trusted devices.
-
-**Get started:** [register a free tradingauto.org account](https://tradingauto.org/register) → [download the latest `-setup.zip`](https://github.com/xahoapro/mt5manager-releases/releases/latest), unzip, run `MT5Manager.exe` → sign in with your account and add your MT5 accounts. Requires Windows 10/11 and MetaTrader 5. [Introduction](https://tradingauto.org/toolintroduce/mt5manager) · [Install guide](https://tradingauto.org/guilde/mt5manager)
-
-This repository only hosts release builds — it contains no source code. © [tradingauto.org](https://tradingauto.org)
+Repo này chỉ chứa bản phát hành — không chứa mã nguồn. © [tradingauto.org](https://tradingauto.org)
