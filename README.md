@@ -53,7 +53,7 @@
 ## 🚀 Bắt đầu trong 3 bước
 
 1. **[Đăng ký tài khoản tradingauto.org](https://tradingauto.org/register)** — miễn phí, không cần key.
-2. **[Tải bộ cài](https://github.com/xahoapro/mt5manager-releases/releases/latest)**: tải file `MT5Manager-<phiên bản>-setup.zip`, giải nén vào một thư mục (vd `C:\MT5Manager`), chạy `MT5Manager.exe`.
+2. **[Tải bộ cài](https://github.com/xahoapro/mt5manager-releases/releases/latest)**: tải file `MT5Manager-<phiên bản>-setup.exe` và chạy để cài (không cần quyền admin; mặc định cài vào `%LOCALAPPDATA%\Programs\MT5Manager`, có lối tắt ở Start Menu). Windows hiện "Windows protected your PC" thì bấm **More info → Run anyway**.
 3. **Đăng nhập** bằng tài khoản vừa đăng ký → **+ Thêm tài khoản** (số tài khoản MT5, mật khẩu, server) → app tự dựng terminal và kết nối.
 
 Xem hướng dẫn chi tiết từng bước: **[tradingauto.org/guilde/mt5manager](https://tradingauto.org/guilde/mt5manager)**
@@ -67,7 +67,7 @@ Xem hướng dẫn chi tiết từng bước: **[tradingauto.org/guilde/mt5manag
 ## 🔄 Cập nhật
 
 App tự báo khi có bản mới, bấm là tải và cài. Gói cập nhật được ký số — app chỉ nhận bản chính thức.
-Các file `MT5Manager-<phiên bản>-update.zip` trong mục Releases là gói cho cơ chế tự cập nhật — khách mới hãy tải file **`-setup.zip`**.
+Các file `MT5Manager-<phiên bản>-update.zip` trong mục Releases là gói cho cơ chế tự cập nhật — khách mới hãy tải file **`-setup.exe`**.
 
 ## 💬 Hỗ trợ & cộng đồng
 
