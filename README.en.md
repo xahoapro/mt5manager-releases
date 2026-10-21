@@ -53,7 +53,7 @@
 ## 🚀 Get started in 3 steps
 
 1. **[Register a tradingauto.org account](https://tradingauto.org/register)** — free, no license key.
-2. **[Download the installer](https://github.com/xahoapro/mt5manager-releases/releases/latest)**: get `MT5Manager-<version>-setup.zip`, unzip it into a folder (e.g. `C:\MT5Manager`) and run `MT5Manager.exe`.
+2. **[Download the installer](https://github.com/xahoapro/mt5manager-releases/releases/latest)**: get `MT5Manager-<version>-setup.exe` and run it to install (no admin rights needed; installs to `%LOCALAPPDATA%\Programs\MT5Manager` by default, with a Start Menu shortcut). If Windows shows "Windows protected your PC", click **More info → Run anyway**.
 3. **Sign in** with the account you just registered → **+ Add account** (MT5 login, password, server) → the app builds the terminal and connects.
 
 Step-by-step guide: **[tradingauto.org/guilde/mt5manager](https://tradingauto.org/guilde/mt5manager)**
@@ -67,7 +67,7 @@ Step-by-step guide: **[tradingauto.org/guilde/mt5manager](https://tradingauto.or
 ## 🔄 Updates
 
 The app tells you when a new version is out — one click downloads and installs it. Update packages are digitally signed, so the app only accepts official builds.
-The `MT5Manager-<version>-update.zip` files in Releases are for the auto-update mechanism — new users should download the **`-setup.zip`** file.
+The `MT5Manager-<version>-update.zip` files in Releases are for the auto-update mechanism — new users should download the **`-setup.exe`** file.
 
 ## 💬 Support & community
 
